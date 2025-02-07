@@ -1,0 +1,182 @@
+[
+  {
+    "id": "2290cbd3-fd62-463f-92ed-f5f4a9dae7ea",
+    "name": "Smart Tech System",
+    "type": "Wearable Technology",
+    "price": 325.5,
+    "materials": [
+      "Silicon",
+      "Plastic",
+      "Recycled Polymer"
+    ],
+    "current_date": "2025-02-07T18:33:27.666408",
+    "current_stock": 2729,
+    "predicted_current_stock": 3781,
+    "stock_trend": "Stable",
+    "manufacturing_details": {
+      "batch_number": "BATCH-7520",
+      "production_date": "2024-12-28T18:33:27.666408"
+    }
+  },
+  {
+    "id": "afbb792b-48e4-47ad-ae4a-e805793c9ca3",
+    "name": "Advanced Tech Sensor",
+    "type": "Electronic Accessory",
+    "price": 438.79,
+    "materials": [
+      "Aluminum",
+      "Plastic",
+      "Glass"
+    ],
+    "current_date": "2025-02-07T18:33:27.668410",
+    "current_stock": 2572,
+    "predicted_current_stock": 2118,
+    "stock_trend": "Decreasing",
+    "manufacturing_details": {
+      "batch_number": "BATCH-7353",
+      "production_date": "2024-12-30T18:33:27.668410"
+    }
+  },
+  {
+    "id": "aa53522d-f79a-42a8-92a9-75d58c310f15",
+    "name": "Pro Home Device",
+    "type": "IoT Sensor",
+    "price": 115.46,
+    "materials": [
+      "Aluminum"
+    ],
+    "current_date": "2025-02-07T18:33:27.668410",
+    "current_stock": 2079,
+    "predicted_current_stock": 4485,
+    "stock_trend": "Stable",
+    "manufacturing_details": {
+      "batch_number": "BATCH-9277",
+      "production_date": "2024-12-21T18:33:27.668410"
+    }
+  },
+  {
+    "id": "1044c130-7163-4bbd-b048-7bb0883010d0",
+    "name": "Pro Connect Device",
+    "type": "Wearable Technology",
+    "price": 95.12,
+    "materials": [
+      "Stainless Steel"
+    ],
+    "current_date": "2025-02-07T18:33:27.668410",
+    "current_stock": 382,
+    "predicted_current_stock": 2294,
+    "stock_trend": "Decreasing",
+    "manufacturing_details": {
+      "batch_number": "BATCH-8867",
+      "production_date": "2025-02-03T18:33:27.668410"
+    }
+  },
+  {
+    "id": "7e34adc5-5cd1-4627-8e92-9a90119f3a8f",
+    "name": "Advanced Connect Sensor",
+    "type": "Electronic Accessory",
+    "price": 172.81,
+    "materials": [
+      "Plastic"
+    ],
+    "current_date": "2025-02-07T18:33:27.668410",
+    "current_stock": 2241,
+    "predicted_current_stock": 1825,
+    "stock_trend": "Increasing",
+    "manufacturing_details": {
+      "batch_number": "BATCH-8671",
+      "production_date": "2025-01-22T18:33:27.668410"
+    }
+  },
+  {
+    "id": "041070b7-fab1-40b5-9f8e-b14820ab7eba",
+    "name": "Advanced Tech System",
+    "type": "Wearable Technology",
+    "price": 82.17,
+    "materials": [
+      "Glass"
+    ],
+    "current_date": "2025-02-07T18:33:27.668410",
+    "current_stock": 673,
+    "predicted_current_stock": 4909,
+    "stock_trend": "Decreasing",
+    "manufacturing_details": {
+      "batch_number": "BATCH-8084",
+      "production_date": "2024-12-16T18:33:27.668410"
+    }
+  },
+  {
+    "id": "84be245e-9972-4e45-ba4a-820a49265536",
+    "name": "Pro Home Sensor",
+    "type": "Home Appliance",
+    "price": 440.37,
+    "materials": [
+      "Silicon",
+      "Stainless Steel",
+      "Carbon Fiber"
+    ],
+    "current_date": "2025-02-07T18:33:27.668410",
+    "current_stock": 2526,
+    "predicted_current_stock": 2811,
+    "stock_trend": "Increasing",
+    "manufacturing_details": {
+      "batch_number": "BATCH-5116",
+      "production_date": "2024-12-25T18:33:27.668410"
+    }
+  },
+  {
+    "id": "761be996-8daa-4fc2-9bd7-8ac9c871cb20",
+    "name": "Pro Home System",
+    "type": "IoT Sensor",
+    "price": 201.89,
+    "materials": [
+      "Recycled Polymer",
+      "Stainless Steel",
+      "Silicon"
+    ],
+    "current_date": "2025-02-07T18:33:27.668410",
+    "current_stock": 3724,
+    "predicted_current_stock": 4006,
+    "stock_trend": "Stable",
+    "manufacturing_details": {
+      "batch_number": "BATCH-1152",
+      "production_date": "2024-12-10T18:33:27.668410"
+    }
+  },
+  {
+    "id": "55ca8ab3-9622-475a-86b4-fe5210afe2af",
+    "name": "Smart Home Sensor",
+    "type": "Electronic Accessory",
+    "price": 143.7,
+    "materials": [
+      "Silicon"
+    ],
+    "current_date": "2025-02-07T18:33:27.668410",
+    "current_stock": 4905,
+    "predicted_current_stock": 4657,
+    "stock_trend": "Increasing",
+    "manufacturing_details": {
+      "batch_number": "BATCH-5007",
+      "production_date": "2024-12-12T18:33:27.668410"
+    }
+  },
+  {
+    "id": "fda1fe72-d902-4cf9-8e21-6ea5ebd2aa70",
+    "name": "Pro Home System",
+    "type": "IoT Sensor",
+    "price": 381.65,
+    "materials": [
+      "Silicon",
+      "Plastic",
+      "Carbon Fiber"
+    ],
+    "current_date": "2025-02-07T18:33:27.669410",
+    "current_stock": 231,
+    "predicted_current_stock": 3520,
+    "stock_trend": "Decreasing",
+    "manufacturing_details": {
+      "batch_number": "BATCH-9441",
+      "production_date": "2025-01-09T18:33:27.669410"
+    }
+  }
+]
