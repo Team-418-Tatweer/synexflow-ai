@@ -1,0 +1,51 @@
+[
+    {
+      "FactorID": 1,
+      "Type": "Weather Alert",
+      "Value": "Storm Approaching",
+      "Source": "WeatherAPI",
+      "ImpactScore": 8.5,
+      "DateDetected": "2025-02-07",
+      "Alert": {
+        "AlertID": 101,
+        "Type": "WEATHER",
+        "Severity": "High",
+        "Description": "A storm is likely to disrupt shipping routes.",
+        "Status": "Open",
+        "Timestamp": "2025-02-07T09:30:00Z"
+      },
+      "Action": {
+        "ActionID": 201,
+        "AlertID": 101,
+        "ActionType": "NotifyLogistics",
+        "ResponsibleTeam": "LogisticsTeam",
+        "Status": "Pending",
+        "CompletionDate": null
+      }
+    },
+    {
+      "FactorID": 2,
+      "Type": "Financial Alert",
+      "Value": "Market Downturn",
+      "Source": "FinanceAPI",
+      "ImpactScore": 7.2,
+      "DateDetected": "2025-02-08",
+      "Alert": {
+        "AlertID": 102,
+        "Type": "FINANCIAL",
+        "Severity": "Medium",
+        "Description": "Stock prices falling in key sectors.",
+        "Status": "Open",
+        "Timestamp": "2025-02-08T12:00:00Z"
+      },
+      "Action": {
+        "ActionID": 202,
+        "AlertID": 102,
+        "ActionType": "ReviewInvestments",
+        "ResponsibleTeam": "FinanceTeam",
+        "Status": "Pending",
+        "CompletionDate": null
+      }
+    }
+  ]
+  
